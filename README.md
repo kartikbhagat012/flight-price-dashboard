@@ -13,6 +13,12 @@ An interactive data analytics dashboard built with Python, Streamlit, and Plotly
 - Pandas
 - NumPy
 
-## Quick Run Command
-```bash
-pip install streamlit pandas numpy plotly && streamlit run app.py
+## Installation and Run
+1. Clone the repository and navigate into the project directory:
+   ```bash
+   git clone [https://github.com/kartikbhagat012/flight-price-dashboard.git](https://github.com/kartikbhagat012/flight-price-dashboard.git)
+   cd flight-price-dashboard
+
+   pip install -r requirements.txt
+
+   streamlit run app.py
